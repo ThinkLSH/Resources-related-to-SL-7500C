@@ -1,0 +1,10 @@
+Package: cinderella
+Installed-Size: 1450k
+版本: 20020529
+架构: arm
+分类: Applications
+维护者: Ulrich Kortenkamp <kortenkamp@cinderella.de>
+Size: 1314200
+MD5Sum: 581063fe1ed9859048a327964df4a62d
+描述: 交互式几何软件Cinderella, 试用版。更多信息,请访问 http://www.cinderella.de
+优先级: 可选

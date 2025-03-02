@@ -1,0 +1,15 @@
+Package: opie-sh
+Installed-Size:   52852
+Filename: ./opie-sh_0.5.1-20020527_arm.ipk
+版本: 0.5.1-20020527
+依赖: opie-base (1.5.0)
+Provides: 
+Conflicts: 
+优先级: 
+类别: opie/applications
+维护者: Thomas Stephens <spiralman@softhome.net>
+架构: arm
+License: GPL
+Size: 28637
+MD5Sum: 3d7da847c723881be4a86d3a7cba2f77
+描述: 一个 QDialog 外壳前端程序，一个允许你从控制台（或 shell 脚本）使用各种对话框的程序

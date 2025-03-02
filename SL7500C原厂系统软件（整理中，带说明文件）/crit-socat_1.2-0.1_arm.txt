@@ -1,0 +1,20 @@
+Package: crit-socat
+Installed-Size: 204k
+Filename: ./crit-socat_1.2-0.1_arm.ipk
+版本: 1.2-0.1
+依赖: 
+优先级: 可选
+分类: 
+维护者: Redvers Davies <red@criticalintegration.com>
+架构: arm
+Size: 78267
+MD5Sum: 751a360c87db5810d791af2621e8fb7d
+描述: 网络和套接字黑客领域的“瑞士军刀链锯”工具 (类似于加强版的netcat)。
+ Original source and all credit to http://www.dest-unreach.org/socat/
+ socat is a relay for bidirectional data transfer between two independent data
+ channels. Each of these data channels may be a file, pipe, device (serial line
+ etc. or a pseudo terminal), a socket (UNIX, IP4, IP6 - raw, UDP, TCP), an
+ SSL socket, a file descriptor (stdin etc.), the GNU line editor, a program, or
+ an arbitrary combination of two of these. 
+ These modes include generation of "listening" sockets, pipes and pseudo
+ terminals.  If you don't know what this means you don't need it.

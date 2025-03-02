@@ -1,0 +1,11 @@
+﻿允许您在 SD 和 CF 上存储和运行大多数程序
+KTrove	changed: 08/23/02
+KTrove 允许你在存储卡上保存并运行夏普Zaurus(一款PDA设备)程序，即使你一开始无法在设备商直接安装这些程序，他几乎适用于所有应用程序。你可以通过命令行或使用Opie-SH从图形用户界面(GUI)来使用它。请阅读显示在“文档”选项卡中的README文件。
+Visits	12443
+版本	1.0
+License	GPL
+分类	Utilities
+Added	08/22/2002
+主页	http://www.singlenesia.com/software/ktrove.shtml
+下载链接	http://www.singlenesia.com/software/ktrove_1.0_arm.ipk
+

@@ -1,0 +1,9 @@
+Package: clit
+优先级: 可选
+分类: applications
+维护者: http://www.kyz.uklinux.net/convlit.php
+架构: arm
+版本: 1.8
+Size: 56646
+MD5Sum: dea260bb53ecdf67d5ef30ab156bcdf2
+Description: 开源的.LIT 格式转换工具

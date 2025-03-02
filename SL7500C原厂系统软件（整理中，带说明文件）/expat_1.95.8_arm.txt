@@ -1,0 +1,9 @@
+软件包：expat
+已安装大小：153600（字节）
+维护者：尼古拉・普尔钦（Nikolay Pultsin）geometer@mawhrin.net
+架构：arm
+版本：1.95.8
+许可证：麻省理工学院许可证（MIT）
+大小：50424（字节）
+MD5 校验和：5892ef729854c91557456776e40e4646
+描述：Expat（XML 解析器）库。 更多详情请访问http://expat.sourceforge.net 。

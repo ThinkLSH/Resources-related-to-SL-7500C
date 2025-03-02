@@ -1,0 +1,10 @@
+Package: bing
+优先级: 可选
+分类: 控制台
+版本: 0.0.1
+架构: arm
+维护者: Chad Harrelson chad@claystuckey.com
+Depends: nmap, busybox
+Size: 1361
+MD5Sum: 0e969e08f1bfc502394b957e1bd07bb5
+描述: bing是一个自动化网络端口扫描的脚本。bing会列出网络的活跃ip地址，并提供一个菜单，用于选择要进行端口扫描的IP地址(需要nmap和busybox).

@@ -1,0 +1,11 @@
+软件包：eon-libflac
+优先级：可选
+分类：杂项
+维护者：大卫・赫德博（David Hedbor）david@eongames.com
+架构：arm
+版本：1.0
+许可证：GNU 宽通用公共许可证（LGPL）
+大小：42985
+MD5 校验和：8f38839bbdf08c4906be762f0d465324
+描述：伊恩游戏（Eon Games）的 FLAC 解码库
+这是 libFLAC 库的精简版本，用于解码以 FLAC 格式编码的音频。它基于标准源构建，但去除了编码代码。伊恩游戏（Eon Games）的部分产品会使用该库。

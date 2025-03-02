@@ -1,0 +1,15 @@
+软件包：drzvideo-eval
+已安装大小：485040 字节
+文件名：./drzvideo-eval_1.0e_arm.ipk
+版本：1.0e
+依赖项：qpe-base（1.5.0 版本）
+优先级：可选
+分类：qpe / 应用程序
+维护者：掌上科技有限公司 drzvideo@palmpalm.com
+架构：arm
+许可证：商业许可
+大小：391538 字节
+MD5 校验和：f393b69cc53b618ffa205cfcf054836c
+描述：Dr.Z 视频播放器 - 评估版。
+此视频播放器支持采用 MPEG4 和 MP3 编解码器的 AVI 文件。
+掌上科技有限公司

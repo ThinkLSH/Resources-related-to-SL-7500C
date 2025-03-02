@@ -1,0 +1,10 @@
+Package: appletmonitor-applet
+优先级: 可选
+分类 : qpe/taskbar
+维护者: Steve Essery (tecknobabble@hotmail.com)
+架构: arm
+版本: 1.0.0
+Depends: 
+Size: 12272
+MD5Sum: b07457590ba6229759fa2c3b9acbed1d
+描述: 适用于夏普ROM的Applet Monitor小程序，这个小程序允许你开启和关闭任务栏中的其他小程序

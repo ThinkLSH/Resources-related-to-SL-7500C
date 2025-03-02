@@ -1,0 +1,11 @@
+Package: cadaver
+优先级 : 可选
+分类: 非美国地区
+版本: 0.21.0-3
+架构: arm
+维护者: KUNITAKE Koichi
+依赖: libxml2
+Size: 66790
+MD5Sum: 59fba261fa926671286ccbc154a757d4
+描述: WebDAV服务器的命令行客户端，对WebDAV服务器的测试和脚本编写很有用。使用方式类似于命令行FTP客户端。此版本支持HTTPS，包括客户端站点证书。
+简要说明：WebDAV代表“基于Web的分布式创作和版本控制”。它是一组对HTTP协议的扩展，允许用户在远程Web服务器上协同编辑和管理文件。

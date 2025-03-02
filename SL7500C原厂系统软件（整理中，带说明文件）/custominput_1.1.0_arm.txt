@@ -1,0 +1,14 @@
+软件包：custominput
+已安装大小：10（单位未明确）
+文件名：./custominput_1.1.0_arm.ipk
+版本：1.1.0
+依赖项：qpe-base（1.5.0 版本）
+优先级：可选
+分类：qpe / 应用程序
+维护者：杰斯珀・K・佩德森（Jesper K. Pedersen） blackie@klaralvdalens-datakonsult.se
+架构：arm
+许可证：GPL（通用公共许可证）
+大小：193755（单位未明确）
+MD5 校验和：aefce6cb592ead4bb532d8e49f41232c
+描述：自定义键盘
+该键盘可进行定制，以精确纳入用户所使用、但在其物理键盘上却没有的字符。

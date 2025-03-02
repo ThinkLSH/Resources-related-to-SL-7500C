@@ -1,0 +1,13 @@
+Package: atomic
+Files: bin/atomic apps/Games/atomic.desktop pics/atomic.png help/html/atomic.html
+Filename: ./atomic_0.0.1_arm.ipk
+版本: 0.0.1
+依赖: qpe-base ($QPE_VERSION)
+优先级: 可选
+分类: Games
+维护者: Robert Ernst <robert.ernst@linux-solutions.at>
+架构: arm
+License: GPL
+Size: 53516
+MD5Sum: 09d90abcdca92987429100d84927cfad
+描述: Atomic是一款源自KDE项目的游戏“katomic”的复刻版。

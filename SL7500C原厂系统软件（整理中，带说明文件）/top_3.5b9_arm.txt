@@ -1,0 +1,13 @@
+Package: top
+Installed-Size:  140648
+Filename: ./top_3.5b9_arm.ipk
+版本: 3.5b9
+依赖: 
+优先级: 可选 
+分类: qpe/applications
+维护者: David Hedbor <david@hedbor.org>
+架构: arm
+License: Freeware
+Size: 114926
+MD5Sum: 9a7b40188d5bf320da02a3521bffade8
+描述: top是UNIX命令行实现对程序top的一个移植版本，针对Qtopia环境进行了修改。

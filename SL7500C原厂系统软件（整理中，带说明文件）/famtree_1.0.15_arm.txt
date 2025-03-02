@@ -1,0 +1,13 @@
+软件包：（famtree）
+安装大小：115280（字节）
+文件名：./famtree_1.0.15_arm.ipk
+版本：1.0.15
+依赖项：qpe-base（1.5.0 版本）
+优先级：可选
+分类：qpe / 应用程序
+维护者：吉米・塞德霍尔姆（Jimmy Cederholm）jimmy_c@fastmail.fm
+架构：arm
+许可证：待定
+大小：92462（字节）
+MD5 校验和：9ca6fbbd0b6a1d2f51669a65f7b4b055
+描述：用于浏览和编辑 GEDCOM 格式家谱的软件

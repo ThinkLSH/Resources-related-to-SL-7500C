@@ -1,0 +1,24 @@
+Package: qswap
+优先级: 可选
+类别: Applications
+版本: 0.2
+架构: arm
+维护者: udoseidel@gmx.de
+依赖: 
+Size: 15025
+MD5Sum: b2c6ed265ccc727995aa6fa5c64754e0
+描述: qscmxx 是一个用于在内存盘、 CompactFlash（CF）卡或安全数字（SD）卡上激活或停用交换文件的前端程序。
+
+Package: qswap
+优先级: 可选
+类别: Applications
+版本: 0.2
+架构: arm
+维护者: udoseidel@gmx.de
+依赖: 
+Size: 20060
+MD5Sum: f84a2ed746eeb99eb37417c721988b10
+描述: qscmxx 是一个用于在内存盘、 CompactFlash（CF）卡或安全数字（SD）卡上激活或停用交换文件的前端程序。
+
+
+配置swapfile，最大可用8M。

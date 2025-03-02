@@ -1,0 +1,10 @@
+Package: console-tools
+优先级: 必需
+版本:  1.0
+架构: arm
+维护者: Andrew Christian <andrew.christian@compaq.com>
+依赖: 
+Size: 163129
+MD5Sum: d7d333cd2e72bc831fe85d948fc564ec
+描述: Linux控制台工具，包括扩: showkey（显示按键）, loadkeys（加载键盘映像）, dumpkeys（转储键盘映射）
+分类: base

@@ -1,0 +1,14 @@
+软件包：froot
+已安装大小：97012（字节）
+文件名：./froot_0.7.1_arm.ipk
+版本：0.7.1
+依赖项：qpe-base（1.5.0 版本）
+优先级：可选
+分类：qpe / 游戏
+维护者：索尔斯滕・舍尔曼（Thorsten Scheuermann） tscheuermann@gmx.net
+架构：arm
+许可证：通用公共许可证（GPL）
+大小：72282（字节）
+MD5 校验和：8d9c57929a52c87e249dd060af50596b
+描述：一款益智游戏
+一款适用于 Qtopia 环境的益智游戏。

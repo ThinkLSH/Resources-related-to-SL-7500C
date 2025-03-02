@@ -1,0 +1,13 @@
+Package: darkStar
+Installed-Size:   50036
+Filename: ./darkStar_1.0 _arm.ipk
+Version: 1.0 
+Depends: Qtopia-base ()
+Priority: optional
+Section: Qtopia
+Maintainer: John Wells <jb@sourceillustrated.com>
+Architecture: arm
+Size: 41369
+MD5Sum: 148950060e86cd9ea3881e3a21ca674c
+Description: DarkStar is an HTML Editor for the Sharp Zaurus. It is developed using C++ with Qt/Embedded. Its goal is to become a very full-featured development tool while retaining simplicity and ease-of-use. See the project page at http://darkstar.sourceillustrated.com or contact jb[replace_this_with_at_symbol]sourceillustrated.com with questions. Thanks!
+

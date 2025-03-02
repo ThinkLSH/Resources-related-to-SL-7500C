@@ -1,0 +1,2 @@
+Zaurus上的视频播放器,支持全屏播放，需要安装mplayer、dvdd、w100
+支持asf avi divx flac mp4 wma wmv ogg mpg
