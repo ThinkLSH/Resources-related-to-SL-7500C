@@ -26,3 +26,17 @@
 + 大小：315968（字节）
 + MD5 校验和：27596560d94c0d4d97626d428a363b0b
 + 描述：电子书阅读器。
+### alpha
++ Package: alpha
++ Installed-Size:    9844
++ Filename: ./alpha_1.0.0_arm.ipk
++ 版本: 1.0.0
++ 依赖: qpe-base (1.5.0)
++ 优先级: 可选
++ 分类: qpe/applications
++ 维护者: Catalin Climov <catalin@climov.com>
++ 架构: arm
++ License: Freeware
++ Size: 8678
++ MD5Sum: 97af15b8412e043c3b50e2dedc485da5
++ 描述: Alpha Clock 一个可以在桌面上运行的透明时钟
