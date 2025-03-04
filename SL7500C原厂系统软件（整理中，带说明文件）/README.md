@@ -99,3 +99,45 @@
 + MD5Sum: 581063fe1ed9859048a327964df4a62d
 + 描述: 交互式几何软件Cinderella, 试用版。更多信息,请访问 http://www.cinderella.de
 + 优先级: 可选
+### clit
++ Package: clit
++ 优先级: 可选
++ 分类: applications
++ 维护者: http://www.kyz.uklinux.net/convlit.php
++ 架构: arm
++ 版本: 1.8
++ Size: 56646
++ MD5Sum: dea260bb53ecdf67d5ef30ab156bcdf2
++ Description: 开源的.LIT 格式转换工具
+### console-tools
++ Package: console-tools
++ 优先级: 必需
++ 版本:  1.0
++ 架构: arm
++ 维护者: Andrew Christian <andrew.christian@compaq.com>
++ 依赖: 
++ Size: 163129
++ MD5Sum: d7d333cd2e72bc831fe85d948fc564ec
++ 描述: Linux控制台工具，包括扩: showkey（显示按键）, loadkeys（加载键盘映像）, dumpkeys（转储键盘映射）
++ 分类: base
+### crit-socat
++ Package: crit-socat
++ Installed-Size: 204k
++ Filename: ./crit-socat_1.2-0.1_arm.ipk
++ 版本: 1.2-0.1
++ 依赖: 
++ 优先级: 可选
++ 分类: 
++ 维护者: Redvers Davies <red@criticalintegration.com>
++ 架构: arm
++ Size: 78267
++ MD5Sum: 751a360c87db5810d791af2621e8fb7d
++ 描述: 网络和套接字黑客领域的“瑞士军刀链锯”工具 (类似于加强版的netcat)。
+ Original source and all credit to http://www.dest-unreach.org/socat/
+ socat is a relay for bidirectional data transfer between two independent data
+ channels. Each of these data channels may be a file, pipe, device (serial line
+ etc. or a pseudo terminal), a socket (UNIX, IP4, IP6 - raw, UDP, TCP), an
+ SSL socket, a file descriptor (stdin etc.), the GNU line editor, a program, or
+ an arbitrary combination of two of these. 
+ These modes include generation of "listening" sockets, pipes and pseudo
+ terminals.  If you don't know what this means you don't need it.
