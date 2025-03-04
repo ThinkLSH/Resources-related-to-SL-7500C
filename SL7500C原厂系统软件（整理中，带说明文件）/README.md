@@ -141,3 +141,57 @@
  an arbitrary combination of two of these. 
  These modes include generation of "listening" sockets, pipes and pseudo
  terminals.  If you don't know what this means you don't need it.
+### custominput
++ 软件包：custominput
++ 已安装大小：10（单位未明确）
++ 文件名：./custominput_1.1.0_arm.ipk
++ 版本：1.1.0
++ 依赖项：qpe-base（1.5.0 版本）
++ 优先级：可选
++ 分类：qpe / 应用程序
++ 维护者：杰斯珀・K・佩德森（Jesper K. Pedersen） blackie@klaralvdalens-datakonsult.se
++ 架构：arm
++ 许可证：GPL（通用公共许可证）
++ 大小：193755（单位未明确）
++ MD5 校验和：aefce6cb592ead4bb532d8e49f41232c
++ 描述：自定义键盘，该键盘可进行定制，以精确纳入用户所使用、但在其物理键盘上却没有的字符。
+### darkStar
++ Package: darkStar
++ Installed-Size:   50036
++ Filename: ./darkStar_1.0 _arm.ipk
++ Version: 1.0 
++ Depends: Qtopia-base ()
++ Priority: optional
++ Section: Qtopia
++ Maintainer: John Wells <jb@sourceillustrated.com>
++ Architecture: arm
++ Size: 41369
++ MD5Sum: 148950060e86cd9ea3881e3a21ca674c
++ Description: DarkStar is an HTML Editor for the Sharp Zaurus. It is developed using C++ with Qt/Embedded. Its goal is to become a very full-featured development tool while retaining simplicity and ease-of-use. See the project page at http://darkstar.sourceillustrated.com or contact jb[replace_this_with_at_symbol]sourceillustrated.com with questions. Thanks!
+### drzvideo-eval
++ 软件包：drzvideo-eval
++ 已安装大小：485040 字节
++ 文件名：./drzvideo-eval_1.0e_arm.ipk
++ 版本：1.0e
++ 依赖项：qpe-base（1.5.0 版本）
++ 优先级：可选
++ 分类：qpe / 应用程序
++ 维护者：掌上科技有限公司 drzvideo@palmpalm.com
++ 架构：arm
++ 许可证：商业许可
++ 大小：391538 字节
++ MD5 校验和：f393b69cc53b618ffa205cfcf054836c
++ 描述：Dr.Z 视频播放器 - 评估版。
++ 此视频播放器支持采用 MPEG4 和 MP3 编解码器的 AVI 文件。掌上科技有限公司
+### dummydev
++ 软件包：dummydev
++ 优先级：可选
++ 软件包分类：网络
++ 版本：0.01-1
++ 架构：arm
++ 已安装大小：76 千字节
++ 维护者：弗洛里安・施耐德（Florian Schneider）flobatzen@t-online.de
++ 卡片安装：已禁用
++ 大小：3722
++ MD5 校验和：9a316b421ba9f8ac686ecc0de14e0018
++ 描述：一种解决方法，用于使 QT 应用程序认为我们已连接到网络。
